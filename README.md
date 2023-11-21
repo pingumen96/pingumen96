@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub space!
 
-Living in Calasetta, a charming gem of Sardinia, I'm passionate about technology and culture. Here you will find projects I've worked on that bridge my career as a software developer with my love for the cultural field.
+Living in Calasetta, a charming gem of Sardinia, I'm passionate about technology and culture. Here you will find projects I've worked on that bridge my career as a software developer with my interest for the cultural field.
 
 ### 🚀 About Me
 
