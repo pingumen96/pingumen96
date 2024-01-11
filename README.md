@@ -40,7 +40,7 @@ I am a software developer at [Visivalab](www.visivalab.com), specializing in tec
 
 ### 🤝 Connect with Me
 
-- Website: [sinhuerossi.it](www.sinhuerossi.it)
+- Website: [sinhuerossi.it](https://www.sinhuerossi.it)
 - LinkedIn: [Sinhuè Rossi](https://www.linkedin.com/in/sinhu%C3%A8-rossi-2188b39a/)
 - Email: [sinhue.rossi@gmail.com](mailto:sinhue.rossi@gmail.com)
 
